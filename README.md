@@ -3,7 +3,7 @@
 ***
 Chat application is based on the web networking which follows the rule that whenever admin gives the access all other client server can act onto it.
 ```
-$ git clone https://example.com
+$ git clone https://github.com/VinayChaurasiyaA/chat-application.git
 $ cd ../client/chat-app
 $ npm install
 $ npm start
